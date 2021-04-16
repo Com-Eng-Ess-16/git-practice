@@ -6,6 +6,7 @@ this is typed by jo
 
 เราจะ commit ไอนี่ ทำไงอ่อ?
 adsfdasdfsad
+<<<<<<< testRebase2
 ewfwwrwrewrwrw
 ไำไำไไำไไำไำไำไำไำ
 ||||||| ancestor
@@ -25,3 +26,7 @@ this is typed by jo
 =======
 adsfdasdfsad
 >>>>>>> test stash
+||||||| ancestor
+=======
+ewfwwrwrewrwrw
+>>>>>>> lol
