@@ -16,8 +16,12 @@ testtdfsdfsdfsdt
 ||||||| ancestor
 =======
 
-
 this is typed by jo
 
 เราจะ commit ไอนี่ ทำไงอ่อ?
+<<<<<<< testRebase2
 >>>>>>> this is commit by Jo
+||||||| ancestor
+=======
+adsfdasdfsad
+>>>>>>> test stash
