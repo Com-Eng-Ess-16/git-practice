@@ -1,2 +1,16 @@
+<<<<<<< testRebase2
+tekreworwkewopr
+
+
+<<<<<<< testRebase2
+jopullrequest
+|||||||
+=======
 tekreworwkewopr
 jjjj
+>>>>>>> testj
+||||||| ancestor
+jopullrequest
+=======
+FIXED!
+>>>>>>> fixed!!
