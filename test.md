@@ -35,4 +35,9 @@ ewfwwrwrewrwrw
 =======
 testtt
 message1
+<<<<<<< testRebase2
 >>>>>>> message1
+||||||| ancestor
+=======
+message2
+>>>>>>> message2
