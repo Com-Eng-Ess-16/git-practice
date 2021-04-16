@@ -18,6 +18,11 @@ testtdfsdfsdfsdt
 ||||||| ancestor
 =======
 
+testtt
+message1
+message2
+
+i'm so confused TT
 this is typed by jo
 
 เราจะ commit ไอนี่ ทำไงอ่อ?
