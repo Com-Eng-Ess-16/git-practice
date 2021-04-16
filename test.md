@@ -1,5 +1,6 @@
 <<<<<<< testRebase2
 testtdfsdfsdfsdt
+<<<<<<< testRebase2
 
 this is typed by jo
 
@@ -12,3 +13,11 @@ testtt
 =======
 testtdfsdfsdfsdt
 >>>>>>> test for new branch
+||||||| ancestor
+=======
+
+
+this is typed by jo
+
+เราจะ commit ไอนี่ ทำไงอ่อ?
+>>>>>>> this is commit by Jo
