@@ -1,3 +1,4 @@
+<<<<<<< testRebase2
 testtdfsdfsdfsdt
 
 this is typed by jo
@@ -6,3 +7,8 @@ this is typed by jo
 adsfdasdfsad
 ewfwwrwrewrwrw
 ไำไำไไำไไำไำไำไำไำ
+||||||| ancestor
+testtt
+=======
+testtdfsdfsdfsdt
+>>>>>>> test for new branch
