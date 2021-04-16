@@ -8,6 +8,7 @@ this is typed by jo
 adsfdasdfsad
 <<<<<<< testRebase2
 ewfwwrwrewrwrw
+<<<<<<< testRebase2
 ไำไำไไำไไำไำไำไำไำ
 ||||||| ancestor
 testtt
@@ -30,3 +31,8 @@ adsfdasdfsad
 =======
 ewfwwrwrewrwrw
 >>>>>>> lol
+||||||| ancestor
+=======
+testtt
+message1
+>>>>>>> message1
