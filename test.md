@@ -40,4 +40,10 @@ message1
 ||||||| ancestor
 =======
 message2
+<<<<<<< testRebase2
 >>>>>>> message2
+||||||| ancestor
+=======
+
+i'm so confused TT
+>>>>>>> try again TT
